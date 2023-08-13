@@ -26,7 +26,9 @@
 # What do I need to do to today to succceed on this tomorrow ?
 1. Sleep by 1:40 AM
 2. Keep laptop + charger on table outside
-3. Keep water bottle filled, on the table outside.
+3. Open Accelerometer docs on Laptop
+4. Open Gmeet on laptop with whatsapp (for Darshan's call)
+5. Keep water bottle filled, on the table outside.
 
 
 # Notes
