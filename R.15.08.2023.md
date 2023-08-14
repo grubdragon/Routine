@@ -12,7 +12,7 @@
 |  | Wash face, remove aligners and brush teeth |  |  |  |
 |  | Keep one bottle of water ready (sip every few minutes in the next 1 hour) |  |  |  |
 |  |  | Keep water bottle filled, on the table outside |  |  |
-| 1:15 PM | Work |  |  |  |
+| 1:15 PM | Work | Keep laptop + charger on table outside |  |  |
 | 3:00 PM | Break (and have a bath) |  |  |  |
 | 10:00 PM | Stop digital stuff for sleep. Pick up Kindle. |  |  |  |
 | 11:30 PM | Sleep. |  |  |  |
