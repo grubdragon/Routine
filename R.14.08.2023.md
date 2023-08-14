@@ -1,36 +1,40 @@
-# What exactly am I going to do tomorrow?
+# Routine 14.08.2023
 
-## Morning Routine:
-1. Wake up at 9:40 AM
-2. Meditate in bed with Medito for 30s - 1 minute
-3. Get out of bed and move! **(this needs fleshing out!!!!)**
-  1. Pushups x 10
-  2. Squats x 10
-4. Make bed
-5. Use the washroom
-6. Wash face, remove aligners and brush teeth
-7. Keep one bottle of water ready (sip every few minutes in the next 1 hour)
-8. Call Darshan by 10:00 AM
-9. Cut call by 10:30 AM
-10. Read DDIA
-11. Get to work tasks by 11 AM.
+# Routine:
 
-## Night
-1. Sleep by 11:30 PM
+| Time | What am I going to do? | What do I need to do to succeed on this tomorrow? | Worked? | Why? |
+| --- | --- | --- | --- | --- |
+| 9:40 AM | Wake up |  | ❌ | I slept very late. Woke up around 10AM though |
+|  |  | Sleep by 1:40 AM | ❌ | I wanted to get this list done. Note to self: Make list for night time |
+| 9:40 - 9:41 AM | Meditate in bed with Medito for 30s - 1 minute | - | ❌ | I felt awkward to do this |
+| 9:41 - 9:45 AM | Do some light exercise
+1. Pushups x 10
+2. Squats x 10 |  | ❌ | Very tough, too ambitious first thing in the morning!
+Avoid, fit in elsewhere |
+| 9:45 - 9:50 AM | Make bed |  | ✅ |  |
+| 9:50 - 9:52 AM | Use the washroom |  | ✅ |  |
+| 9:52 - 9:55 AM | Wash face, remove aligners and brush teeth |  | ✅ |  |
+| 9:55 AM | Keep one bottle of water ready (sip every few minutes in the next 1 hour) |  | ✅ |  |
+|  |  | Keep water bottle filled, on the table outside | ✅ |  |
+| 10:00 - 10:30 AM | Call Darshan | - | ❌ | Was late, because I woke up late. This overflowed into next thing and sleep was bad too. Couldn’t do next task |
+| 10:30 - 11:00 AM | Read DDIA | - |  |  |
+| 11:00 AM | Get to work tasks |  | ✅ |  |
+|  |  | Keep laptop + charger on table outside | ✅ |  |
+|  |  | Open Accelerometer docs on Laptop | ✅ |  |
+|  |  | Open Gmeet on laptop with whatsapp (for Darshan's call) | ✅ |  |
+| 11:30 PM | Sleep | - | ❌ | Couldn't wind up. Writing this eval. Everything is wrong with this schedule, so fix it!|
 
 ## Over-arching goals
-1. Water - 750 ml (1 bottle) x 5
-2. Protein - 50g
-3. 1 Fruit while 
 
-# What do I need to do to today to succceed on this tomorrow ?
-1. Sleep by 1:40 AM
-2. Keep laptop + charger on table outside
-3. Open Accelerometer docs on Laptop
-4. Open Gmeet on laptop with whatsapp (for Darshan's call)
-5. Keep water bottle filled, on the table outside.
+| Goal | Success/Failure | Why? |
+| --- | --- | --- |
+| Water - 750 ml (1 bottle) x 5 | ❌ | Goal was too ambitious, reduce it |
+| Protein - 50g | ❌ | No whey protein at home.(Now ordered) 
+Had much lesser through dal + paneer |
+| 1 Fruit | ❌ | Didn’t ask for it. |
 
 
-# Notes
-1. Maybe use a table instead? Columns: Time | What am I going to do? | What do I need to do to succeed on this tomorrow?
-
+## Learnings
+1. Need to win on sleep. Catch up on sleep tomorrow.
+2. Goals for water intake and protein should be realistic and achievable.
+3. Planning for fruit intake in advance can help achieve the goal.
