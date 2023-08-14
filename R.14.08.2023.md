@@ -7,9 +7,7 @@
 | 9:40 AM | Wake up |  | ❌ | I slept very late. Woke up around 10AM though |
 |  |  | Sleep by 1:40 AM | ❌ | I wanted to get this list done. Note to self: Make list for night time |
 | 9:40 - 9:41 AM | Meditate in bed with Medito for 30s - 1 minute | - | ❌ | I felt awkward to do this |
-| 9:41 - 9:45 AM | Do some light exercise
-1. Pushups x 10
-2. Squats x 10 |  | ❌ | Very tough, too ambitious first thing in the morning!
+| 9:41 - 9:45 AM | Do some light exercise (Pushups x 10, Squats x 10) |  | ❌ | Very tough, too ambitious first thing in the morning!
 Avoid, fit in elsewhere |
 | 9:45 - 9:50 AM | Make bed |  | ✅ |  |
 | 9:50 - 9:52 AM | Use the washroom |  | ✅ |  |
