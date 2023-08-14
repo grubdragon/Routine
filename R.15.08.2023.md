@@ -15,6 +15,7 @@
 | 1:15 PM | Work |  |  |  |
 | 3:00 PM | Break (and have a bath) |  |  |  |
 | 10:00 PM | Stop digital stuff for sleep. Pick up Kindle. |  |  |  |
+| 11:30 PM | Sleep. |  |  |  |
 
 ## Over-arching goals
 
